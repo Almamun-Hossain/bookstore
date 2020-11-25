@@ -1,8 +1,3 @@
-<%-- 
-    Document   : admin
-    Created on : Nov 22, 2020, 10:13:54 AM
-    Author     : root
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>

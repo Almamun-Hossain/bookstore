@@ -1,2 +1,24 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    position: relative;
+    font-family: 'Lora', serif;
+}
 
+a:hover{
+    text-decoration: none;
+}
+
+/*admin login page*/ 
+.admin-login{
+    position: relative;
+    height: 450px;
+    width: 100%;
+    margin: 0;
+    padding: 20px 0;
+}
